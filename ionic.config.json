@@ -1,0 +1,7 @@
+{
+  "name": "from8to10",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
